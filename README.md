@@ -1,0 +1,2 @@
+# Cora_project
+init
