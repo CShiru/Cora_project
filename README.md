@@ -14,3 +14,5 @@ To duplicate the results, follow the subsequent steps in order.
 git clone https://github.com/CShiru/Cora_project.git
 ```
 - run all GNN.ipynb
+
+![result](D:\OneDrive - 南方科技大学\Study\智能数据分析\project\result.jpg)
