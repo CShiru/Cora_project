@@ -15,4 +15,5 @@ git clone https://github.com/CShiru/Cora_project.git
 ```
 - run all GNN.ipynb
 
-![result](D:\OneDrive - 南方科技大学\Study\智能数据分析\project\result.jpg)
+### Result
+![result](https://github.com/CShiru/Cora_project/blob/main/result.jpg)
